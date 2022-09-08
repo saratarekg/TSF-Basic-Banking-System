@@ -195,8 +195,7 @@ Get to know us better
               Money
             </h4>
             <p>
-              have suffered alteration in some form, by injected humour, or randomised words which don&#39;t look even
-              slightly believable. If you are
+              We offer better exchange rates and lower fees than most conventional banks and money transfer services.
             </p>
           </div>
         </div>
@@ -210,8 +209,7 @@ Get to know us better
               Clients
             </h4>
             <p>
-              have suffered alteration in some form, by injected humour, or randomised words which don&#39;t look even
-              slightly believable. If you are
+              Have a look at your clients and choose whom do you want to transfer some money to.
             </p>
           </div>
         </div>
@@ -225,8 +223,8 @@ Get to know us better
                     Transactions
                 </h4>
                 <p>
-                    have suffered alteration in some form, by injected humour, or randomised words which don&#39;t look even
-                    slightly believable. If you are
+                    Look at all your transactions history to ensure safety and keep up with your money ingoing and outgoing.
+
                 </p>
             </div>
         </div>
