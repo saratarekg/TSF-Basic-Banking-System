@@ -331,58 +331,7 @@ Get to know us better
                       It’s a very coherent system. It is a simple, safe and easy to understand system, to manage your transactions.
                   </p>
               </div>
-              <!--<div class="detail-box">
-                <div class="img-box">
-                  <img src="images/client.png" alt=""/>
-                </div>
-                <div class="name">
-                  <h5>
-                    Sarah 
-                  </h5>
-                  <p>
-                    cal
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="client_container layout_padding2">
-              <div class="client_text">
-                <p>
-                  psum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                  commodo
-                  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                </p>
-              </div>-->
-              <!--<div class="detail-box">
-                <div class="img-box">
-                  <img src="images/client.png" alt=""/>
-                </div>
-                <div class="name">
-                  <h5>
-                    Ben 
-                  </h5>
-                  <p>
-                    cal
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="client_container layout_padding2">
-              <div class="client_text">
-                <p>
-                  psum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                  commodo
-                  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                </p>
-              </div>-->
+             
               <div class="detail-box">
                 <div class="img-box">
                   <img src="images/client.png" alt=""/>
