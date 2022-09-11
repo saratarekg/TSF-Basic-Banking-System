@@ -10,6 +10,8 @@
 *.userosscache
 *.sln.docstates
 
+*.hack linguist-detectable=false
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
