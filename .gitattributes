@@ -2,7 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-*.hack linguist-detectable=true
+*.hack linguist-detectable=false
 
 
 ###############################################################################
