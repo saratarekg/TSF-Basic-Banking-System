@@ -11,6 +11,8 @@
 *.sln.docstates
 
 *.hack linguist-detectable=false
+*linguist-vendored
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
